@@ -1,3 +1,13 @@
 one.txt
 1
+<<<<<<< Updated upstream
 1
+=======
+10
+111
+<<<<<<< Updated upstream
+11111
+>>>>>>> Stashed changes
+=======
+11111
+>>>>>>> Stashed changes
